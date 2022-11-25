@@ -1,0 +1,9 @@
+# Excluded folders
+node_modules
+page
+src
+
+# Excluded files
+package-lock.json
+package.json
+rollup.config.js
