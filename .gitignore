@@ -1,6 +1,6 @@
 # Excluded folders
 node_modules
-page
+dist/*.html
 src
 
 # Excluded files
