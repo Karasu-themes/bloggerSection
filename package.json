@@ -1,0 +1,35 @@
+{
+  "name": "@karasu-themes/bloggersection",
+  "version": "0.1.0",
+  "description": "The best Multi-section plugin for blogger",
+  "main": "rollup.config.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karasu-themes/bloggerSection.git"
+  },
+  "keywords": [
+    "Blogger",
+    "Sections",
+    "Js"
+  ],
+  "author": "MarceloTLD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Karasu-themes/bloggerSection/issues"
+  },
+  "homepage": "https://github.com/Karasu-themes/bloggerSection#readme",
+  "devDependencies": {
+    "@rollup/plugin-babel": "6.0.2",
+    "@rollup/plugin-node-resolve": "15.0.1",
+    "@rollup/plugin-terser": "0.1.0",
+    "blogger-utils": "^1.0.0",
+    "rollup": "3.2.5",
+    "rollup-plugin-esbuild": "^5.0.0",
+    "rollup-plugin-license": "3.0.1"
+  }
+}
