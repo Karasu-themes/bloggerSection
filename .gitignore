@@ -4,5 +4,3 @@ dist/*.html
 
 # Excluded files
 package-lock.json
-package.json
-rollup.config.js
