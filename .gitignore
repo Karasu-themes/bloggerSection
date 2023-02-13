@@ -1,7 +1,6 @@
 # Excluded folders
 node_modules
 dist/*.html
-src
 
 # Excluded files
 package-lock.json
