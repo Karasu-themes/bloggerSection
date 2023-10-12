@@ -1,6 +1,6 @@
 {
   "name": "@karasu-themes/bloggersection",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "The best Multi-section plugin for blogger",
   "main": "rollup.config.js",
   "type": "module",
