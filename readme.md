@@ -129,4 +129,4 @@ dónde `hook_name` es el nombre de la función que hemos declarado en el paso an
 
 ## Notas finales
 
-Eso ha sido todo, espero que éste plugin te ayude a mejorar tu experiencia de desarrollo a la hora de crear temas en blogger. Si te ha sido de ayuda éste aporte, considera dejarme una tu estrella.  También puedes [invitarme un café](https://ko-fi.com/karasuthemes) para que pueda seguir desarrollando complementos cómo este para blogger en el futuro.
+Eso ha sido todo, espero que éste plugin te ayude a mejorar tu experiencia de desarrollo a la hora de crear temas en blogger. Si te ha sido de ayuda éste aporte, considera dejarme tu estrella en el repositorio.  También puedes [invitarme un café](https://ko-fi.com/karasuthemes) para que pueda seguir desarrollando complementos cómo este para blogger en el futuro.
