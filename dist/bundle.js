@@ -1,8 +1,8 @@
 /*!
-* blogger.section 1.0.0
+* blogger.section 1.1.0
 * https://github.com/Karasu-themes/bloggerSection
 *
-* Copyright © 2022 MarceloTLD
+* Copyright © 2023 MarceloTLD
 * 
 * Released under the MIT License
 *-----------------------------------------------*/
