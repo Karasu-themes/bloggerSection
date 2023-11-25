@@ -1,5 +1,5 @@
 import { getPosts } from "./getPosts";
-import { parser, parserConfig, template } from 'blogger-utils/src/index';
+import { parser, template } from 'blogger-utils/src/index';
 
 export default function start(data, observer) {
     data.forEach((entry) => {
@@ -23,7 +23,7 @@ export default function start(data, observer) {
                     if (entry.length > 0) {
                         entry.forEach(post => {
                             const _DATA = parser(post, config);
-                            TEMPLATE += template(STR_TEMPLATE.replace(/data-/g, ''), _DATA)
+                            TEMPLATE += template(STR_TEMPLATE.replace(/data-src/g, 'src'), _DATA)
                         })
                     } else {
                         TEMPLATE += `<p class="bs-empty">${config.empty || "No posts founded"}</p>`;
