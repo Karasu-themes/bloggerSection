@@ -8,7 +8,7 @@ Ve a tu panel de Blogger y en la pestaña `Tema » Editar HTML`, buscamos la eti
 
 ```xml
 <!-- CDN bloggerUtils -->
-<script defer='defer' src='//cdn.jsdelivr.net/npm/blogger-utils/dist/bundle.js'></script>
+<script defer='defer' src='https://cdn.jsdelivr.net/gh/Karasu-themes/bloggerSection/dist/bundle.js'></script>
 ```
 
 Ahora, sin salir del Editor HTML, buscamos la etiqueta `</body>` y justo encima de esta, pegamos el código JavaScript para poder instanciar las secciones:
